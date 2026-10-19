@@ -8,7 +8,6 @@ public class Main {
             try {
                 UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
             } catch (Exception ignored) {
-                // The application can still run with Swing's default look and feel.
             }
             new LoginFrame().setVisible(true);
         });
