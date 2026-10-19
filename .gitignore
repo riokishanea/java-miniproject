@@ -1,9 +1,0 @@
-
-/.ppt-build/
-/.codex-finalizer/
-/*.pdf
-# Java build output
-out/
-bin/
-*.class
-/presentation*/
